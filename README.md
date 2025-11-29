@@ -1,5 +1,5 @@
 # Hola mundo!
 
-Esta es la primera version de mi documento almacenado en Git!
+Esta es la segunda version de mi documento almacenado en Git!
 
 Hurra!
