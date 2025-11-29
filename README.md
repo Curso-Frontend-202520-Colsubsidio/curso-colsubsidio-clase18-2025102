@@ -1,5 +1,5 @@
 # Hola mundo!
 
-Uy, este es un cambio experimental sobre mi app!
+Este es un cambio hecho desde Github (Repositorio Remoto)
 
 Hurra!
