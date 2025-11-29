@@ -1,5 +1,5 @@
 # Hola mundo!
 
-Esta es la segunda version de mi documento almacenado en Git!
+Uy, este es un cambio experimental sobre mi app!
 
 Hurra!
